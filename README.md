@@ -1,4 +1,5 @@
 # proyecto
+#link:https://proyecto2481.000webhostapp.com/index.php
 Se propone una plataforma web diseñada para agricultores y cooperativas agrícolas comprometidas con prácticas sostenibles y la trazabilidad de productos. El objetivo es mejorar la gestión de inventarios y fortalecer la transparencia en la cadena de suministro.
 
 Funcionalidades Clave:
