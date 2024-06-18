@@ -1,22 +1,26 @@
 # proyecto
 #link:https://proyecto2481.000webhostapp.com/index.php
-Se propone una plataforma web diseñada para agricultores y cooperativas agrícolas comprometidas con prácticas sostenibles y la trazabilidad de productos. El objetivo es mejorar la gestión de inventarios y fortalecer la transparencia en la cadena de suministro.
+#### Funcionalidades:
 
-Funcionalidades Clave:
-Visualización y Trazabilidad:
+1. **Registro e Inicio de Sesión**:
+   - Registro con nombre, correo electrónico, nombre de usuario y contraseña.
+   - Inicio de sesión para usuarios registrados.
 
-Ofrece una interfaz intuitiva para que consumidores y agricultores visualicen la procedencia y condiciones de los productos.
-Actualización y Edición de Datos:
+2. **Gestión de Inventarios**:
+   - Agregar nuevos productos con detalles como nombre, precio, proveedor, tipo, cantidad, fecha de entrega y forma de pago.
+   - Visualizar inventario en una tabla.
 
-Facilita a los agricultores actualizar información sobre productos en tiempo real, garantizando precisión y cumplimiento de estándares.
-Eliminación de Productos y Gestión de Inventario:
+3. **Actualización y Eliminación de Productos**:
+   - Editar información de productos existentes.
+   - Eliminar productos del inventario.
 
-Permite la eliminación segura de productos vendidos o fuera de stock, optimizando la gestión de inventarios.
-Beneficios Innovadores:
-Promoción de la Agricultura Sostenible: Fomenta prácticas agrícolas responsables al destacar productos con certificaciones de sostenibilidad.
+4. **Interfaz Amigable**:
+   - Estilos CSS para una interfaz atractiva y fácil de usar.
 
-Conexión Directa con Consumidores: Mejora la confianza del consumidor al proporcionar información detallada y transparente sobre los productos.
+#### Innovación:
+- **Optimización**: Control detallado de productos para reposición eficiente y reducción de desperdicios.
+- **Eficiencia**: Actualización de inventario en línea, accesible desde cualquier lugar.
+- **Transparencia**: Rastreo fácil de la procedencia de productos.
+- **Escalabilidad**: Posibilidad de agregar reportes de ventas, alertas y análisis de datos.
 
-Marketplace de Agricultura Sostenible: Potencialmente evoluciona hacia un mercado en línea, facilitando transacciones directas entre productores y consumidores conscientes.
-
-Datos Estratégicos: Proporciona datos útiles para decisiones informadas sobre cultivos y gestión, mejorando la eficiencia y rentabilidad agrícola.
+Esta plataforma mejora la gestión de inventarios y eficiencia operativa en pequeñas tiendas de comida orgánica, fomentando una mejor administración de recursos.
