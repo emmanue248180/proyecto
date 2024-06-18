@@ -1,14 +1,13 @@
 <?php session_start(); ?>
 <html>
 <head>
-	<title>Pagina principal</title>
+	<title>**Agricultura Transparente: Plataforma de Gestión y Trazabilidad para la Sostenibilidad Agrícola**</title>
 	<link href="style.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
 	<div id="header">
-		BIENVENIDO A MI NEGOCIO PIZZERIA REZA<br>
-		Reza Ramirez Hector Ezequiel
+		BIENVENIDO Plataforma de Gestión y Trazabilidad para la Sostenibilidad Agrícola<br>
 	</div>
 	<?php
 	if(isset($_SESSION['valid'])) {			
