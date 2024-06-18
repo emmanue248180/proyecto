@@ -3,9 +3,6 @@
 Se propone una plataforma web diseñada para agricultores y cooperativas agrícolas comprometidas con prácticas sostenibles y la trazabilidad de productos. El objetivo es mejorar la gestión de inventarios y fortalecer la transparencia en la cadena de suministro.
 
 Funcionalidades Clave:
-Registro y Gestión de Productos:
-
-Permite a los agricultores registrar y gestionar productos agrícolas con atributos detallados como variedad, método de cultivo y fecha de cosecha.
 Visualización y Trazabilidad:
 
 Ofrece una interfaz intuitiva para que consumidores y agricultores visualicen la procedencia y condiciones de los productos.
